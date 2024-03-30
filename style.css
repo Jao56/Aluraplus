@@ -168,6 +168,10 @@ body{
         display: block;
         text-align: center;
     }
+    .rodape{
+        margin: 0;
+        text-align: center;
+    }
     .rodape__paragrafo{
         margin: 0;
         text-align: center;
